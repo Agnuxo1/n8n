@@ -6,6 +6,10 @@ n8n is a workflow automation platform that gives technical teams the flexibility
 
 ![n8n.io - Screenshot](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-screenshot-readme.png)
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains <a href="https://github.com/n8n-io/n8n">upstream n8n</a>’s visual workflows, reusable integrations and optional code steps. These components can replace repeated manual transfers between services and reduce the need for separate integration scripts. The practical benefits originate upstream and remain subject to the project’s licence; actual resource savings depend on trigger frequency, external services and workflow design.</sub>
+<!-- impact-note:end -->
+
 ## Key Capabilities
 
 - **Code When You Need It**: Write JavaScript/Python, add npm packages, or use the visual interface
